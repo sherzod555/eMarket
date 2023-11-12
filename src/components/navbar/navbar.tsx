@@ -3,7 +3,7 @@ import Logo from "../../assets/Logo.svg"
 export const Navbar = () => {
     return (
         <>
-        <div className="border-t-2 w-screen border-[#FAFAFB]">
+        <div className="border-t-2 w-full border-[#FAFAFB]">
             
         </div>
             <main className="container mx-auto w-[1252px] text-[#22262A] py-[26px]">

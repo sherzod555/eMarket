@@ -131,7 +131,12 @@ export const ProductsCard = () => {
           </div>
 
         ))}
+
+
       </main>
+      <p className="pt-7 hover:underline text-center text-xl font-medium text-[#33A0FF] uppercase underline-offset-8">
+        LOAD MORE
+      </p>
     </>
   );
 };
