@@ -5,7 +5,7 @@ export const BestSeller = () => {
     return (
         <>
             <main className="container mx-auto w-[1252px]">
-                <h2 className="uppercase text-[#22262A] text-center text-4xl mb-8 font-semibold">
+                <h2 className="uppercase text-[#22262A] text-center text-4xl mb-8 mt-16 font-semibold">
                     Best Seller
                 </h2>
                 <BestSellerTabs />

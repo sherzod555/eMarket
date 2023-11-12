@@ -5,6 +5,7 @@ import Header from './components/header/header'
 import Intro from './components/intro/intro'
 import Navbar from './components/navbar/navbar'
 import Search from './components/search/search'
+import TopProducts from './components/top-product/top-product'
 import WhyUs from './components/why-us/why-us'
 
 function App() {
@@ -14,6 +15,7 @@ function App() {
       <Header/>
       <Navbar />
       <Intro/>
+      <TopProducts/>
       <BestSeller/>
       <WhyUs/>
       <Search/>
